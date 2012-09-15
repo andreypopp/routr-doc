@@ -1,0 +1,2 @@
+routr-doc provides Sphinx directive to automatically generate documentation from
+route definitions.
